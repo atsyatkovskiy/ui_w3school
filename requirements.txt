@@ -1,0 +1,10 @@
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+loguru==0.7.0
+pip==23.2.1
+pytest==7.4.0
+selenium==3.141.0
+urllib3==1.25.10
+pytest-xdist==2.2.1
+fake-agent==0.1.4
+requests==2.24.0
